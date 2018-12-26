@@ -1,3 +1,4 @@
 git add .
 git commit -a -m "git commands"
 git push
+this methed is local rep to git rep
